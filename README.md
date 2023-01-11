@@ -1,2 +1,1 @@
-# ARQUEIRO-5
-PRO C-32
+# Project Template 26
